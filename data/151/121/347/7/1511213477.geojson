@@ -17,7 +17,7 @@
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Apron",
     "wof:belongsto":[
-        1511213143,
+        1511214203,
         102527513,
         1159162825,
         102191575,
@@ -26,7 +26,7 @@
         102087579,
         1159160869,
         85688637,
-        "1159162825"
+        1511214259
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -35,7 +35,7 @@
         {
             "building_id":-1,
             "campus_id":102527513,
-            "classification_id":1511213143,
+            "classification_id":1511214203,
             "concourse_id":1159162825,
             "continent_id":102191575,
             "country_id":85633793,
@@ -47,9 +47,9 @@
         }
     ],
     "wof:id":1511213477,
-    "wof:lastmodified":1573854349,
+    "wof:lastmodified":1573859444,
     "wof:name":"Apron",
-    "wof:parent_id":"1159162825",
+    "wof:parent_id":1511214259,
     "wof:placetype":"classification",
     "wof:repo":"sfomuseum-data-collection-classifications",
     "wof:superseded_by":[],
