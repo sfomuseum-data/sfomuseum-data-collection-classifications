@@ -11,11 +11,11 @@
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "sfomuseum:collection":"collection",
+    "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"collection",
     "wof:belongsto":[
-        1159162825,
         102527513,
+        1159162825,
         102191575,
         85633793,
         85922583,
@@ -43,7 +43,7 @@
         }
     ],
     "wof:id":1511214203,
-    "wof:lastmodified":1573857923,
+    "wof:lastmodified":1573858985,
     "wof:name":"Aviation Museum",
     "wof:parent_id":"1159162825",
     "wof:placetype":"classification",
