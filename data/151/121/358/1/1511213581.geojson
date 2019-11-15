@@ -17,9 +17,9 @@
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Other, Philately",
     "wof:belongsto":[
-        1159162825,
-        102527513,
         1511213143,
+        102527513,
+        1159162825,
         102191575,
         85633793,
         85922583,
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1511213581,
-    "wof:lastmodified":1573854040,
+    "wof:lastmodified":1573854348,
     "wof:name":"Other, Philately",
     "wof:parent_id":"1159162825",
     "wof:placetype":"classification",

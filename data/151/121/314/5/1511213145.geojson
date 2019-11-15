@@ -16,9 +16,9 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"category",
     "wof:belongsto":[
-        1159162825,
-        102527513,
         1511213143,
+        102527513,
+        1159162825,
         102191575,
         85633793,
         85922583,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1511213145,
-    "wof:lastmodified":1573853962,
+    "wof:lastmodified":1573854348,
     "wof:name":"Graphics",
     "wof:parent_id":"1159162825",
     "wof:placetype":"classification",

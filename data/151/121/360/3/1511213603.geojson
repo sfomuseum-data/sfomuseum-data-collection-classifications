@@ -17,9 +17,9 @@
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Patch, Airline",
     "wof:belongsto":[
-        1159162825,
-        102527513,
         1511213143,
+        102527513,
+        1159162825,
         102191575,
         85633793,
         85922583,
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1511213603,
-    "wof:lastmodified":1573854043,
+    "wof:lastmodified":1573854349,
     "wof:name":"Patch, Airline",
     "wof:parent_id":"1159162825",
     "wof:placetype":"classification",

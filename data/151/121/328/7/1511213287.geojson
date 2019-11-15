@@ -17,9 +17,9 @@
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Handwear",
     "wof:belongsto":[
-        1159162825,
-        102527513,
         1511213143,
+        102527513,
+        1159162825,
         102191575,
         85633793,
         85922583,
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1511213287,
-    "wof:lastmodified":1573853989,
+    "wof:lastmodified":1573854348,
     "wof:name":"Handwear",
     "wof:parent_id":"1159162825",
     "wof:placetype":"classification",
