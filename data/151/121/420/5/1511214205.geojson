@@ -13,8 +13,9 @@
     "mz:is_current":-1,
     "sfomuseum:category":"Promotional",
     "sfomuseum:classification_id":-1,
-    "sfomuseum:collection":"Aviation Museum",
+    "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"category",
+    "src:geom":"unknown",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -22,7 +23,7 @@
         85922583,
         102087579,
         1511214277,
-        1511214203,
+        1511214207,
         85688637
     ],
     "wof:breaches":[],
@@ -39,13 +40,13 @@
             "locality_id":85922583,
             "neighbourhood_id":-1,
             "region_id":85688637,
-            "wing_id":1511214203
+            "wing_id":1511214207
         }
     ],
     "wof:id":1511214205,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1574211482,
     "wof:name":"Promotional",
-    "wof:parent_id":1511214203,
+    "wof:parent_id":1511214207,
     "wof:placetype":"concourse",
     "wof:repo":"sfomuseum-data-collection-classifications",
     "wof:superseded_by":[],
