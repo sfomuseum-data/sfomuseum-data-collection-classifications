@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Airmail Flight Cover",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214215,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213159,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1578510731,
     "wof:name":"Airmail Flight Cover",
     "wof:parent_id":1511214215,
     "wof:placetype":"arcade",

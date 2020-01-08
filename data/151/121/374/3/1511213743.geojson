@@ -16,9 +16,10 @@
     "sfomuseum:collection":"Aviation Library",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Government Document",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
-        1511214221,
         102527513,
+        1511214221,
         102191575,
         85633793,
         85922583,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213743,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510730,
     "wof:name":"Government Document",
     "wof:parent_id":1511214221,
     "wof:placetype":"classification",

@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Name Pin, Cabin Crew",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214225,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213775,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Name Pin, Cabin Crew",
     "wof:parent_id":1511214225,
     "wof:placetype":"arcade",

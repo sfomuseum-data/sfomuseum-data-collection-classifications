@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Film",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214247,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213713,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Film",
     "wof:parent_id":1511214247,
     "wof:placetype":"arcade",

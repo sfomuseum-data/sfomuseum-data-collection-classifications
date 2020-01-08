@@ -16,9 +16,10 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Needlepoint",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
-        1511214257,
         102527513,
+        1511214257,
         102191575,
         85633793,
         85922583,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213621,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Needlepoint",
     "wof:parent_id":1511214257,
     "wof:placetype":"classification",

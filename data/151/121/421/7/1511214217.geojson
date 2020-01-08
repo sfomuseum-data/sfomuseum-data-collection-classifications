@@ -14,6 +14,7 @@
     "sfomuseum:classification_id":-1,
     "sfomuseum:collection":"Aviation Library",
     "sfomuseum:placetype":"collection",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1511214217,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510730,
     "wof:name":"Aviation Library",
     "wof:parent_id":1511214277,
     "wof:placetype":"wing",

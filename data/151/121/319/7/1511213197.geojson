@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Architectural Study Model",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214261,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213197,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1578510732,
     "wof:name":"Architectural Study Model",
     "wof:parent_id":1511214261,
     "wof:placetype":"arcade",

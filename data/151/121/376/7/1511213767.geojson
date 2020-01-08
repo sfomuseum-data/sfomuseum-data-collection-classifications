@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Flatware",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214245,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213767,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1578510732,
     "wof:name":"Flatware",
     "wof:parent_id":1511214245,
     "wof:placetype":"arcade",

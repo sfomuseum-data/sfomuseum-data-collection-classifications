@@ -15,6 +15,7 @@
     "sfomuseum:classification_id":-1,
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"category",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1511214251,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1578510732,
     "wof:name":"Employee Career History",
     "wof:parent_id":1511214207,
     "wof:placetype":"concourse",

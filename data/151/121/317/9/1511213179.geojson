@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Toy Airport Set",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214213,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213179,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Toy Airport Set",
     "wof:parent_id":1511214213,
     "wof:placetype":"arcade",

@@ -16,9 +16,10 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Meteorological",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
-        1511214227,
         102527513,
+        1511214227,
         102191575,
         85633793,
         85922583,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213829,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Meteorological",
     "wof:parent_id":1511214227,
     "wof:placetype":"classification",

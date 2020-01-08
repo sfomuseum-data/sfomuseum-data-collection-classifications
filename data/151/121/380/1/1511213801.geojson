@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Negative",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214209,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213801,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Negative",
     "wof:parent_id":1511214209,
     "wof:placetype":"arcade",

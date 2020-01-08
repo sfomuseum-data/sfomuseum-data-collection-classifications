@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"TBD, Exhibit Prop",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214265,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213547,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1578510732,
     "wof:name":"TBD, Exhibit Prop",
     "wof:parent_id":1511214265,
     "wof:placetype":"arcade",

@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Handbag / Purse / Suitcase",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214229,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213285,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510730,
     "wof:name":"Handbag / Purse / Suitcase",
     "wof:parent_id":1511214229,
     "wof:placetype":"arcade",

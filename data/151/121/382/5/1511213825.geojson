@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Calendar, Desk",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214205,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213825,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Calendar, Desk",
     "wof:parent_id":1511214205,
     "wof:placetype":"arcade",

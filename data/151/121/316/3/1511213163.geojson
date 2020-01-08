@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Toy Airplane",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214213,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213163,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1578510732,
     "wof:name":"Toy Airplane",
     "wof:parent_id":1511214213,
     "wof:placetype":"arcade",

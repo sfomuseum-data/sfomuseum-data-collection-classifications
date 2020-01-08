@@ -16,9 +16,10 @@
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Certificate",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
-        1511214253,
         102527513,
+        1511214253,
         102191575,
         85633793,
         85922583,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213845,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Certificate",
     "wof:parent_id":1511214253,
     "wof:placetype":"classification",

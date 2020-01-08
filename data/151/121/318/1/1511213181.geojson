@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Model Airship",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214235,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213181,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Model Airship",
     "wof:parent_id":1511214235,
     "wof:placetype":"arcade",

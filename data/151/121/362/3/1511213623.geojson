@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Painting",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214257,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213623,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Painting",
     "wof:parent_id":1511214257,
     "wof:placetype":"arcade",

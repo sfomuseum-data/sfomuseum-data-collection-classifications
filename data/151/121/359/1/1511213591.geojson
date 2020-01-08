@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Airport",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214211,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213591,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1578510732,
     "wof:name":"Airport",
     "wof:parent_id":1511214211,
     "wof:placetype":"arcade",

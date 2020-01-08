@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Patch, Military",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214225,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213605,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1578510732,
     "wof:name":"Patch, Military",
     "wof:parent_id":1511214225,
     "wof:placetype":"arcade",

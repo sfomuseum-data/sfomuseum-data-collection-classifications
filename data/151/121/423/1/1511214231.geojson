@@ -15,6 +15,7 @@
     "sfomuseum:classification_id":-1,
     "sfomuseum:collection":"Aviation Library",
     "sfomuseum:placetype":"category",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1511214231,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Book",
     "wof:parent_id":1511214217,
     "wof:placetype":"concourse",

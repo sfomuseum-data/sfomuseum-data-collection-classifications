@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Table Top / Desk Set",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214249,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213415,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1578510732,
     "wof:name":"Table Top / Desk Set",
     "wof:parent_id":1511214249,
     "wof:placetype":"arcade",

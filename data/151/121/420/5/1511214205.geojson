@@ -15,7 +15,7 @@
     "sfomuseum:classification_id":-1,
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"category",
-    "src:geom":"unknown",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -44,7 +44,7 @@
         }
     ],
     "wof:id":1511214205,
-    "wof:lastmodified":1574211482,
+    "wof:lastmodified":1578510731,
     "wof:name":"Promotional",
     "wof:parent_id":1511214207,
     "wof:placetype":"concourse",

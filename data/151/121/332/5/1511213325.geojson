@@ -16,6 +16,7 @@
     "sfomuseum:collection":"Aviation Library",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Book",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1511214231,
         102527513,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213325,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510730,
     "wof:name":"Book",
     "wof:parent_id":1511214231,
     "wof:placetype":"arcade",

@@ -16,9 +16,10 @@
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Stationery",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
-        1511214243,
         102527513,
+        1511214243,
         102191575,
         85633793,
         85922583,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213573,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Stationery",
     "wof:parent_id":1511214243,
     "wof:placetype":"classification",

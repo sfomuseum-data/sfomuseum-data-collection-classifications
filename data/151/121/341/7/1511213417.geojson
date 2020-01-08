@@ -16,9 +16,10 @@
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Tableware",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
-        1511214245,
         102527513,
+        1511214245,
         102191575,
         85633793,
         85922583,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213417,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1578510732,
     "wof:name":"Tableware",
     "wof:parent_id":1511214245,
     "wof:placetype":"classification",

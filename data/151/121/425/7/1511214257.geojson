@@ -15,6 +15,7 @@
     "sfomuseum:classification_id":-1,
     "sfomuseum:collection":"Aviation Museum",
     "sfomuseum:placetype":"category",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1511214257,
-    "wof:lastmodified":1573862211,
+    "wof:lastmodified":1578510732,
     "wof:name":"Art",
     "wof:parent_id":1511214203,
     "wof:placetype":"concourse",

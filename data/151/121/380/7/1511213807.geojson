@@ -16,9 +16,10 @@
     "sfomuseum:collection":"Aviation Archive",
     "sfomuseum:placetype":"subcategory",
     "sfomuseum:subcategory":"Print",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
-        1511214205,
         102527513,
+        1511214205,
         102191575,
         85633793,
         85922583,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1511213807,
-    "wof:lastmodified":1573862210,
+    "wof:lastmodified":1578510731,
     "wof:name":"Print",
     "wof:parent_id":1511214205,
     "wof:placetype":"classification",
