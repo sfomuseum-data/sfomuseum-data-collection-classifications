@@ -16,12 +16,12 @@
     "sfomuseum:placetype":"collection",
     "src:geom":"sfomuseum",
     "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
         85922583,
+        102527513,
         102087579,
+        102191575,
         1511214277,
+        85633793,
         85688637
     ],
     "wof:breaches":[],
@@ -41,7 +41,7 @@
         }
     ],
     "wof:id":1511214203,
-    "wof:lastmodified":1578510731,
+    "wof:lastmodified":1581718428,
     "wof:name":"Aviation Museum",
     "wof:parent_id":1511214277,
     "wof:placetype":"wing",

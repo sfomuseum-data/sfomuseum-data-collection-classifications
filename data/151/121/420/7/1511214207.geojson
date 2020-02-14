@@ -16,13 +16,12 @@
     "sfomuseum:placetype":"collection",
     "src:geom":"sfomuseum",
     "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
         85922583,
+        102527513,
         102087579,
+        102191575,
         1511214277,
-        1511214203,
+        85633793,
         85688637
     ],
     "wof:breaches":[],
@@ -38,11 +37,11 @@
             "locality_id":85922583,
             "neighbourhood_id":-1,
             "region_id":85688637,
-            "wing_id":1511214203
+            "wing_id":1511214207
         }
     ],
     "wof:id":1511214207,
-    "wof:lastmodified":1578510731,
+    "wof:lastmodified":1581718428,
     "wof:name":"Aviation Archive",
     "wof:parent_id":1511214277,
     "wof:placetype":"wing",
