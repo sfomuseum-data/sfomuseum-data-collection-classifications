@@ -18,8 +18,8 @@
     "sfomuseum:subcategory":"Other, Passenger Amenity",
     "src:geom":"sfomuseum",
     "wof:belongsto":[
-        102527513,
         1511214243,
+        102527513,
         102191575,
         85633793,
         85922583,
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1511213563,
-    "wof:lastmodified":1578510730,
+    "wof:lastmodified":1581718672,
     "wof:name":"Other, Passenger Amenity",
     "wof:parent_id":1511214243,
     "wof:placetype":"classification",

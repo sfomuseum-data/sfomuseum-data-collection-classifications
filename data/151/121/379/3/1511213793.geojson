@@ -18,8 +18,8 @@
     "sfomuseum:subcategory":"Print",
     "src:geom":"sfomuseum",
     "wof:belongsto":[
-        102527513,
         1511214257,
+        102527513,
         102191575,
         85633793,
         85922583,
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1511213793,
-    "wof:lastmodified":1578510731,
+    "wof:lastmodified":1581718670,
     "wof:name":"Print",
     "wof:parent_id":1511214257,
     "wof:placetype":"classification",

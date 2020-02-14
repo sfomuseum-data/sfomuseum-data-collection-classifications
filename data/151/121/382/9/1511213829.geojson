@@ -18,8 +18,8 @@
     "sfomuseum:subcategory":"Meteorological",
     "src:geom":"sfomuseum",
     "wof:belongsto":[
-        102527513,
         1511214227,
+        102527513,
         102191575,
         85633793,
         85922583,
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1511213829,
-    "wof:lastmodified":1578510731,
+    "wof:lastmodified":1581718671,
     "wof:name":"Meteorological",
     "wof:parent_id":1511214227,
     "wof:placetype":"classification",
