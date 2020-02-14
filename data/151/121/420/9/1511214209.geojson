@@ -23,9 +23,8 @@
         85922583,
         102087579,
         1511214277,
-        1511214203,
-        85688637,
-        1511214207
+        1511214207,
+        85688637
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -41,11 +40,11 @@
             "locality_id":85922583,
             "neighbourhood_id":-1,
             "region_id":85688637,
-            "wing_id":1511214203
+            "wing_id":1511214207
         }
     ],
     "wof:id":1511214209,
-    "wof:lastmodified":1581717411,
+    "wof:lastmodified":1581718643,
     "wof:name":"Photograph",
     "wof:parent_id":1511214207,
     "wof:placetype":"concourse",
