@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 1,
     "sfomuseum:category": "Insignia",
     "sfomuseum:classification_id": 508,
     "sfomuseum:collection": "Aviation Museum",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511213779,
-    "wof:lastmodified": 1624666434,
+    "wof:lastmodified": 1624666532,
     "wof:name": "Uniform Wing(s), Other",
     "wof:parent_id": 1511214225,
     "wof:placetype": "arcade",

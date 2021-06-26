@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 1,
     "sfomuseum:category": "Art",
     "sfomuseum:classification_id": 276,
     "sfomuseum:collection": "Aviation Museum",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511213627,
-    "wof:lastmodified": 1624666434,
+    "wof:lastmodified": 1624666532,
     "wof:name": "Photograph",
     "wof:parent_id": 1511214257,
     "wof:placetype": "arcade",

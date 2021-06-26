@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 1,
     "sfomuseum:category": "Book",
     "sfomuseum:classification_id": 135,
     "sfomuseum:collection": "Aviation Library",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511213379,
-    "wof:lastmodified": 1624666434,
+    "wof:lastmodified": 1624666532,
     "wof:name": "Reference",
     "wof:parent_id": 1511214231,
     "wof:placetype": "arcade",

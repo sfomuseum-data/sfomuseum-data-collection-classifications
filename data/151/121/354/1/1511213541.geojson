@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 1,
     "sfomuseum:category": "Exhibit Prop",
     "sfomuseum:classification_id": 228,
     "sfomuseum:collection": "Aviation Archive",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511213541,
-    "wof:lastmodified": 1624666434,
+    "wof:lastmodified": 1624666532,
     "wof:name": "Print Reproduction",
     "wof:parent_id": 1511214265,
     "wof:placetype": "arcade",
