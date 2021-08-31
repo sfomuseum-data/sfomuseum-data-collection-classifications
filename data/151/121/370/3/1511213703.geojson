@@ -48,13 +48,15 @@
       }
     ],
     "wof:id": 1511213703,
-    "wof:lastmodified": 1624666532,
+    "wof:lastmodified": 1630441045,
     "wof:name": "Safety Information Card",
     "wof:parent_id": 1511214243,
     "wof:placetype": "arcade",
     "wof:repo": "sfomuseum-data-collection-classifications",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1746152593
+    ],
     "wof:tags": []
   },
   "bbox": [

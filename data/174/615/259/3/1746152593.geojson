@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
+    "edtf:deprecated": "2021-08-31",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
@@ -45,13 +46,15 @@
       }
     ],
     "wof:id": 1746152593,
-    "wof:lastmodified": 1629156055,
+    "wof:lastmodified": 1630441045,
     "wof:name": "Safety Information Card",
     "wof:parent_id": 1746152591,
     "wof:placetype": "custom",
     "wof:placetype_alt": "subcategory",
     "wof:repo": "sfomuseum-data-collection-classfications",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1511213703
+    ],
     "wof:supersedes": []
   },
   "bbox": [
