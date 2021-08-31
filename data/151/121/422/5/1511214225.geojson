@@ -45,13 +45,15 @@
       }
     ],
     "wof:id": 1511214225,
-    "wof:lastmodified": 1624666532,
+    "wof:lastmodified": 1630431729,
     "wof:name": "Insignia",
     "wof:parent_id": 1511214203,
     "wof:placetype": "concourse",
     "wof:repo": "sfomuseum-data-collection-classifications",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1746152555
+    ],
     "wof:tags": []
   },
   "bbox": [
