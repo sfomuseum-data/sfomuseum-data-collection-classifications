@@ -45,13 +45,15 @@
       }
     ],
     "wof:id": 1511214205,
-    "wof:lastmodified": 1624666532,
+    "wof:lastmodified": 1630431441,
     "wof:name": "Promotional",
     "wof:parent_id": 1511214207,
     "wof:placetype": "concourse",
     "wof:repo": "sfomuseum-data-collection-classifications",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1746152581
+    ],
     "wof:tags": []
   },
   "bbox": [
