@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "mz:is_current": 1,
     "sfomuseum:category": "Promotional",
-    "sfomuseum:classfication_id": -1,
+    "sfomuseum:classification_id": -1,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:placetype": "category",
     "src:geom": "sfomuseum",
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1746152581,
-    "wof:lastmodified": 1629156050,
+    "wof:lastmodified": 1630430669,
     "wof:name": "Promotional",
     "wof:parent_id": 1511214207,
     "wof:placetype": "custom",

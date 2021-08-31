@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "mz:is_current": 1,
     "sfomuseum:category": "Beverage Service",
-    "sfomuseum:classfication_id": -1,
+    "sfomuseum:classification_id": -1,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:placetype": "category",
     "src:geom": "sfomuseum",
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1746152533,
-    "wof:lastmodified": 1629156033,
+    "wof:lastmodified": 1630430669,
     "wof:name": "Beverage Service",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",
