@@ -15,7 +15,7 @@
     "sfomuseum:classification_id": 167,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:placetype": "subcategory",
-    "sfomuseum:subcategory": "Medal / Trophy",
+    "sfomuseum:subcategory": "Medal / Medallion / Trophy",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214253,
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511213443,
-    "wof:lastmodified": 1624666532,
+    "wof:lastmodified": 1631037113,
     "wof:name": "Medal / Trophy",
     "wof:parent_id": 1511214253,
     "wof:placetype": "arcade",

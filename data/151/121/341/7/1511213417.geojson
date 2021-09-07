@@ -11,11 +11,11 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "sfomuseum:category": "Food Service",
+    "sfomuseum:category": "Meal Service",
     "sfomuseum:classification_id": 154,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:placetype": "subcategory",
-    "sfomuseum:subcategory": "Tableware",
+    "sfomuseum:subcategory": "Flatware",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214245,
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511213417,
-    "wof:lastmodified": 1624666532,
+    "wof:lastmodified": 1631037113,
     "wof:name": "Tableware",
     "wof:parent_id": 1511214245,
     "wof:placetype": "classification",

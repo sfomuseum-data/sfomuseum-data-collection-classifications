@@ -11,7 +11,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "sfomuseum:category": "Passenger Amenity",
+    "sfomuseum:category": "Passenger Amenity, Museum",
     "sfomuseum:classification_id": 473,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:placetype": "subcategory",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511213705,
-    "wof:lastmodified": 1624666532,
+    "wof:lastmodified": 1631037113,
     "wof:name": "Entertainment, Headset",
     "wof:parent_id": 1511214243,
     "wof:placetype": "arcade",

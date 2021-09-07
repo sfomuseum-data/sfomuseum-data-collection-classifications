@@ -15,7 +15,7 @@
     "sfomuseum:classification_id": 241,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:placetype": "subcategory",
-    "sfomuseum:subcategory": "In-flight Information",
+    "sfomuseum:subcategory": "Inflight Information",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214243,
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511213565,
-    "wof:lastmodified": 1624666532,
+    "wof:lastmodified": 1631037113,
     "wof:name": "In-flight Information",
     "wof:parent_id": 1511214243,
     "wof:placetype": "arcade",

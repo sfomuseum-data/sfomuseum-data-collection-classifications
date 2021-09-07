@@ -11,11 +11,11 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "sfomuseum:category": "Food Service",
+    "sfomuseum:category": "Beverage Service",
     "sfomuseum:classification_id": 542,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:placetype": "subcategory",
-    "sfomuseum:subcategory": "Beverage Service, Cocktail Napkin",
+    "sfomuseum:subcategory": "Cocktail Napkin",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214245,
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511213839,
-    "wof:lastmodified": 1624666532,
+    "wof:lastmodified": 1631037113,
     "wof:name": "Beverage Service, Cocktail Napkin",
     "wof:parent_id": 1511214245,
     "wof:placetype": "arcade",
