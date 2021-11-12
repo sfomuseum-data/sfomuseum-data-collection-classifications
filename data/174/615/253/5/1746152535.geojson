@@ -8,6 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "millsfield:count_objects": 72,
     "mz:is_current": 1,
     "sfomuseum:category": "Beverage Service",
     "sfomuseum:classification_id": 560,
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1746152535,
-    "wof:lastmodified": 1629156034,
+    "wof:lastmodified": 1636742123,
     "wof:name": "Coffee cup / Teacup / Saucer",
     "wof:parent_id": 1746152533,
     "wof:placetype": "custom",

@@ -9,6 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
+    "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Photograph",
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1511213439,
-    "wof:lastmodified": 1624666532,
+    "wof:lastmodified": 1636742122,
     "wof:name": "Transparency",
     "wof:parent_id": 1511214209,
     "wof:placetype": "arcade",
