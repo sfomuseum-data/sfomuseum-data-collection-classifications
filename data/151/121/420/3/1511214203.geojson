@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_objects": 2541,
+    "millsfield:count_objects": 2532,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:classification_id": -1,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 1511214203,
-    "wof:lastmodified": 1636741904,
+    "wof:lastmodified": 1637108857,
     "wof:name": "Aviation Museum",
     "wof:parent_id": 1511214277,
     "wof:placetype": "wing",

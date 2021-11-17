@@ -8,7 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
-    "millsfield:count_objects": 14,
+    "millsfield:count_objects": 13,
     "mz:is_current": 1,
     "sfomuseum:category": "Meal Service",
     "sfomuseum:classification_id": 575,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 1746152573,
-    "wof:lastmodified": 1636742122,
+    "wof:lastmodified": 1637108861,
     "wof:name": "Table Linen",
     "wof:parent_id": 1746152551,
     "wof:placetype": "custom",
