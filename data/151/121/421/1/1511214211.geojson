@@ -9,6 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 206,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1511214211,
-    "wof:lastmodified": 1636742055,
+    "wof:lastmodified": 1637710541,
     "wof:name": "Subject File / Research File",
     "wof:parent_id": 1511214207,
     "wof:placetype": "concourse",

@@ -8,6 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "millsfield:count_images": 59,
     "millsfield:count_objects": 58,
     "mz:is_current": 1,
     "sfomuseum:category": "Meal Service",
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1746152571,
-    "wof:lastmodified": 1637108861,
+    "wof:lastmodified": 1637710544,
     "wof:name": "Tray Liner",
     "wof:parent_id": 1746152551,
     "wof:placetype": "custom",

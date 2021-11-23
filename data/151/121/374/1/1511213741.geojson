@@ -9,6 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
+    "millsfield:count_images": 29,
     "millsfield:count_objects": 30,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -49,7 +50,7 @@
       }
     ],
     "wof:id": 1511213741,
-    "wof:lastmodified": 1637696259,
+    "wof:lastmodified": 1637710544,
     "wof:name": "Uniform Wing(s), Flight Crew",
     "wof:parent_id": 1511214225,
     "wof:placetype": "arcade",
