@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_objects": 118,
+    "millsfield:count_objects": 186,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Insignia",
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 1511214225,
-    "wof:lastmodified": 1636742055,
+    "wof:lastmodified": 1637696256,
     "wof:name": "Insignia",
     "wof:parent_id": 1511214203,
     "wof:placetype": "concourse",
