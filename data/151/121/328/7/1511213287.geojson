@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 10,
-    "millsfield:count_objects": 8,
+    "millsfield:count_objects": 9,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Clothing Accessory",
@@ -50,7 +50,7 @@
       }
     ],
     "wof:id": 1511213287,
-    "wof:lastmodified": 1638390464,
+    "wof:lastmodified": 1638482225,
     "wof:name": "Handwear",
     "wof:parent_id": 1511214229,
     "wof:placetype": "arcade",

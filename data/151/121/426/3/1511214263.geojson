@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 4,
-    "millsfield:count_objects": 11,
+    "millsfield:count_objects": 652,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Periodical",
@@ -47,7 +47,7 @@
       }
     ],
     "wof:id": 1511214263,
-    "wof:lastmodified": 1637710541,
+    "wof:lastmodified": 1638482223,
     "wof:name": "Periodical",
     "wof:parent_id": 1511214217,
     "wof:placetype": "concourse",
