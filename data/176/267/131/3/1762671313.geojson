@@ -8,6 +8,8 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 3,
     "mz:is_current": 1,
     "sfomuseum:category": "Passenger Amenity, Archive",
     "sfomuseum:classification_id": 582,
@@ -45,7 +47,7 @@
       }
     ],
     "wof:id": 1762671313,
-    "wof:lastmodified": 1641246835,
+    "wof:lastmodified": 1641248472,
     "wof:name": "Game / Puzzle",
     "wof:parent_id": 1762671311,
     "wof:placetype": "custom",
