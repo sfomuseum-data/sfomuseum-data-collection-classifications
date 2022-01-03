@@ -36,6 +36,7 @@
       {
         "building_id": 1511214277,
         "campus_id": 102527513,
+        "category_id": 1511214241,
         "concourse_id": 1511214241,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -47,10 +48,11 @@
       }
     ],
     "wof:id": 1511214241,
-    "wof:lastmodified": 1637710541,
+    "wof:lastmodified": 1641252167,
     "wof:name": "Map / Chart",
     "wof:parent_id": 1511214207,
-    "wof:placetype": "concourse",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "category",
     "wof:repo": "sfomuseum-data-collection-classifications",
     "wof:superseded_by": [],
     "wof:supersedes": [],

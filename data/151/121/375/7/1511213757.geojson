@@ -45,14 +45,16 @@
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
+        "subcategory_id": 1511213757,
         "wing_id": 1511214203
       }
     ],
     "wof:id": 1511213757,
-    "wof:lastmodified": 1640031581,
+    "wof:lastmodified": 1641252167,
     "wof:name": "Button, Clothing",
     "wof:parent_id": 1511214229,
-    "wof:placetype": "arcade",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "subcategory",
     "wof:repo": "sfomuseum-data-collection-classifications",
     "wof:superseded_by": [],
     "wof:supersedes": [],

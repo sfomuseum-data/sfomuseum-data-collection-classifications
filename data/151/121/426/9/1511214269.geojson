@@ -34,6 +34,7 @@
       {
         "building_id": 1511214277,
         "campus_id": 102527513,
+        "category_id": 1511214269,
         "concourse_id": 1511214269,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -45,10 +46,11 @@
       }
     ],
     "wof:id": 1511214269,
-    "wof:lastmodified": 1624666532,
+    "wof:lastmodified": 1641252167,
     "wof:name": "Textile",
     "wof:parent_id": 1511214203,
-    "wof:placetype": "concourse",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "category",
     "wof:repo": "sfomuseum-data-collection-classifications",
     "wof:superseded_by": [],
     "wof:supersedes": [],
