@@ -13,7 +13,7 @@
     "millsfield:count_objects": 47,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "sfomuseum:category": "Passenger Amenity",
+    "sfomuseum:category": "Passenger Amenity, Museum",
     "sfomuseum:classification_id": 237,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:placetype": "subcategory",
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213561,
-    "wof:lastmodified": 1641255046,
+    "wof:lastmodified": 1641338269,
     "wof:name": "Children’s Amenity, Toys",
     "wof:parent_id": 1511214243,
     "wof:placetype": "custom",
