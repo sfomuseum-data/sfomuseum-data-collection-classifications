@@ -15,7 +15,7 @@
     "mz:is_current": 1,
     "sfomuseum:category": "Design",
     "sfomuseum:classification_id": 25,
-    "sfomuseum:collection": "Aviation Archive",
+    "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:placetype": "subcategory",
     "sfomuseum:subcategory": "Architectural Design Drawing",
     "src:geom": "sfomuseum",
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213191,
-    "wof:lastmodified": 1641252167,
+    "wof:lastmodified": 1641255046,
     "wof:name": "Architectural Design Drawing",
     "wof:parent_id": 1511214261,
     "wof:placetype": "custom",
