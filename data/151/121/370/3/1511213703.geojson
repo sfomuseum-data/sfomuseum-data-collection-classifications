@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213703,
-    "wof:lastmodified": 1641603049,
+    "wof:lastmodified": 1641603164,
     "wof:name": "Safety Information Card",
     "wof:parent_id": 1511214243,
     "wof:placetype": "custom",
@@ -59,6 +59,7 @@
     "wof:repo": "sfomuseum-data-collection-classifications",
     "wof:superseded_by": [],
     "wof:supersedes": [
+      1762679647,
       1746152593
     ],
     "wof:tags": []
