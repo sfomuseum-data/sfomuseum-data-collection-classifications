@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 11,
-    "millsfield:count_objects": 11,
+    "millsfield:count_objects": 9,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Published Media",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511214233,
-    "wof:lastmodified": 1641252167,
+    "wof:lastmodified": 1642731924,
     "wof:name": "Published Media",
     "wof:parent_id": 1511214207,
     "wof:placetype": "custom",
