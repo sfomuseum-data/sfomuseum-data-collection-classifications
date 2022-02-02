@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 200,
-    "millsfield:count_objects": 213,
+    "millsfield:count_objects": 214,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Food Service",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511214245,
-    "wof:lastmodified": 1643416048,
+    "wof:lastmodified": 1643762469,
     "wof:name": "Food Service",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",
