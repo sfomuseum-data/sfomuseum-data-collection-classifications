@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 16,
-    "millsfield:count_objects": 16,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Beverage Service",
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213833,
-    "wof:lastmodified": 1641252167,
+    "wof:lastmodified": 1643762472,
     "wof:name": "Swizzle Stick / Stir Stick",
     "wof:parent_id": 1511214245,
     "wof:placetype": "custom",
