@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 46,
-    "millsfield:count_objects": 73,
+    "millsfield:count_objects": 74,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Insignia",
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213761,
-    "wof:lastmodified": 1644377506,
+    "wof:lastmodified": 1644619978,
     "wof:name": "Hat Badge, Cabin Crew",
     "wof:parent_id": 1511214225,
     "wof:placetype": "custom",
