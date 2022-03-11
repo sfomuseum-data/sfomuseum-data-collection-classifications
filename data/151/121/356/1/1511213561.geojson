@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 16,
-    "millsfield:count_objects": 46,
+    "millsfield:count_objects": 47,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Passenger Amenity, Museum",
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213561,
-    "wof:lastmodified": 1644377506,
+    "wof:lastmodified": 1646988250,
     "wof:name": "Children’s Amenity, Toys",
     "wof:parent_id": 1511214243,
     "wof:placetype": "custom",
