@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 966,
+    "millsfield:count_images": 967,
     "millsfield:count_objects": 1006,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213315,
-    "wof:lastmodified": 1648539629,
+    "wof:lastmodified": 1648683826,
     "wof:name": "Luggage Label",
     "wof:parent_id": 1511214205,
     "wof:placetype": "custom",
