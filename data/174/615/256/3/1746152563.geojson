@@ -8,7 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
-    "millsfield:count_images": 309,
+    "millsfield:count_images": 315,
     "millsfield:count_objects": 314,
     "mz:is_current": 1,
     "sfomuseum:category": "Meal Service",
@@ -47,7 +47,7 @@
       }
     ],
     "wof:id": 1746152563,
-    "wof:lastmodified": 1647330492,
+    "wof:lastmodified": 1648799227,
     "wof:name": "Plate / Dish / Bowl",
     "wof:parent_id": 1746152551,
     "wof:placetype": "custom",

@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 39,
+    "millsfield:count_images": 40,
     "millsfield:count_objects": 30,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213399,
-    "wof:lastmodified": 1648683826,
+    "wof:lastmodified": 1648799227,
     "wof:name": "Sleepwear",
     "wof:parent_id": 1511214243,
     "wof:placetype": "custom",
