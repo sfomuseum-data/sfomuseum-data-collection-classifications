@@ -11,7 +11,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "sfomuseum:category": "Clothing Accessory",
+    "sfomuseum:category": "Insignia",
     "sfomuseum:classification_id": 175,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:placetype": "subcategory",
@@ -49,7 +49,7 @@
       }
     ],
     "wof:id": 1511213461,
-    "wof:lastmodified": 1641252167,
+    "wof:lastmodified": 1649108491,
     "wof:name": "Medal, Military",
     "wof:parent_id": 1511214229,
     "wof:placetype": "custom",

@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "mz:is_current": 1,
-    "sfomuseum:category": "Promotional",
+    "sfomuseum:category": "Promotional, Museum",
     "sfomuseum:classification_id": 580,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:placetype": "subcategory",
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1746152589,
-    "wof:lastmodified": 1629156053,
+    "wof:lastmodified": 1649108491,
     "wof:name": "Pen / Pencil",
     "wof:parent_id": 1746152587,
     "wof:placetype": "custom",

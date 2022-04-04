@@ -15,7 +15,7 @@
     "sfomuseum:classification_id": 538,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:placetype": "subcategory",
-    "sfomuseum:subcategory": "Decal",
+    "sfomuseum:subcategory": "Sticker / Decal",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214227,
@@ -49,8 +49,8 @@
       }
     ],
     "wof:id": 1511213831,
-    "wof:lastmodified": 1641252167,
-    "wof:name": "Decal",
+    "wof:lastmodified": 1649108491,
+    "wof:name": "Sticker / Decal",
     "wof:parent_id": 1511214227,
     "wof:placetype": "custom",
     "wof:placetype_alt": "subcategory",

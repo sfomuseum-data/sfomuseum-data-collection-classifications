@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "mz:is_current": 1,
-    "sfomuseum:category": "Promotional",
+    "sfomuseum:category": "Promotional, Archive",
     "sfomuseum:classification_id": 578,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:placetype": "subcategory",
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1746152583,
-    "wof:lastmodified": 1630431528,
+    "wof:lastmodified": 1649108491,
     "wof:name": "Trading Card",
     "wof:parent_id": 1511214205,
     "wof:placetype": "custom",

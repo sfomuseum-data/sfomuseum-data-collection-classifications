@@ -16,7 +16,7 @@
     "sfomuseum:classification_id": 84,
     "sfomuseum:collection": "Aviation Library",
     "sfomuseum:placetype": "subcategory",
-    "sfomuseum:subcategory": "In-flight, Periodical",
+    "sfomuseum:subcategory": "Inflight, Periodical",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214263,
@@ -50,8 +50,8 @@
       }
     ],
     "wof:id": 1511213303,
-    "wof:lastmodified": 1641252167,
-    "wof:name": "In-flight, Periodical",
+    "wof:lastmodified": 1649108491,
+    "wof:name": "Inflight, Periodical",
     "wof:parent_id": 1511214263,
     "wof:placetype": "custom",
     "wof:placetype_alt": "subcategory",

@@ -15,6 +15,7 @@
     "sfomuseum:classification_id": 3,
     "sfomuseum:collection": "Aviation Museum",
     "sfomuseum:placetype": "category",
+    "sfomuseum:subcategory": "Light Panel",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -46,8 +47,8 @@
       }
     ],
     "wof:id": 1511213145,
-    "wof:lastmodified": 1641252167,
-    "wof:name": "Graphics",
+    "wof:lastmodified": 1649108491,
+    "wof:name": "Light Panel",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",
     "wof:placetype_alt": "category",
