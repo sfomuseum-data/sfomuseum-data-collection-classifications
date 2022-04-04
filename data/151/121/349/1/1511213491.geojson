@@ -17,7 +17,7 @@
     "sfomuseum:classification_id": 196,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:placetype": "subcategory",
-    "sfomuseum:subcategory": "Identification",
+    "sfomuseum:subcategory": "Identification Card",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1511214251,
@@ -51,8 +51,8 @@
       }
     ],
     "wof:id": 1511213491,
-    "wof:lastmodified": 1642731952,
-    "wof:name": "Identification",
+    "wof:lastmodified": 1649108491,
+    "wof:name": "Identification Card",
     "wof:parent_id": 1511214251,
     "wof:placetype": "custom",
     "wof:placetype_alt": "subcategory",

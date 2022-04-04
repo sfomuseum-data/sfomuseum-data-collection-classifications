@@ -13,7 +13,7 @@
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "sfomuseum:category": "Promotional",
+    "sfomuseum:category": "Promotional, Archive",
     "sfomuseum:classification_id": 292,
     "sfomuseum:collection": "Aviation Archive",
     "sfomuseum:placetype": "subcategory",
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213651,
-    "wof:lastmodified": 1642731926,
+    "wof:lastmodified": 1649108491,
     "wof:name": "Press Kit / Release",
     "wof:parent_id": 1511214205,
     "wof:placetype": "custom",
