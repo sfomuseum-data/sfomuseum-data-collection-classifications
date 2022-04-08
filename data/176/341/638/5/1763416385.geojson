@@ -8,7 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
-    "millsfield:count_images": 12,
+    "millsfield:count_images": 26,
     "millsfield:count_objects": 26,
     "mz:is_current": 1,
     "sfomuseum:category": "Uniform Accessory",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1763416385,
-    "wof:lastmodified": 1649109932,
+    "wof:lastmodified": 1649405559,
     "wof:name": "Necktie",
     "wof:parent_id": 1763416381,
     "wof:placetype": "custom",
