@@ -8,6 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:is_current": 1,
     "sfomuseum:category": "Promotional, Museum",
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1763416373,
-    "wof:lastmodified": 1649109901,
+    "wof:lastmodified": 1649405556,
     "wof:name": "Promotional, Museum",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",
