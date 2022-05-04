@@ -36,9 +36,9 @@
     "wof:geomhash": "30c8a918561c84bb2daa2b97fc7c5353",
     "wof:hierarchy": [
       {
-        "arcade_id": 1511213691,
         "building_id": 1511214277,
         "campus_id": 102527513,
+        "category_id": 1511214239,
         "concourse_id": 1511214239,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213691,
-    "wof:lastmodified": 1642731952,
+    "wof:lastmodified": 1651699085,
     "wof:name": "Manual, Flight",
     "wof:parent_id": 1511214239,
     "wof:placetype": "custom",
