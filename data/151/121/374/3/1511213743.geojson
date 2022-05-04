@@ -37,7 +37,7 @@
       {
         "building_id": 1511214277,
         "campus_id": 102527513,
-        "classification_id": 1511213743,
+        "category_id": 1511214221,
         "concourse_id": 1511214221,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -50,7 +50,7 @@
       }
     ],
     "wof:id": 1511213743,
-    "wof:lastmodified": 1641252167,
+    "wof:lastmodified": 1651697250,
     "wof:name": "Government Document",
     "wof:parent_id": 1511214221,
     "wof:placetype": "custom",
