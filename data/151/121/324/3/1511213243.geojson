@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 132,
-    "millsfield:count_objects": 60,
+    "millsfield:count_objects": 65,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Uniform",
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213243,
-    "wof:lastmodified": 1652255522,
+    "wof:lastmodified": 1652312901,
     "wof:name": "Dress",
     "wof:parent_id": 1763416393,
     "wof:placetype": "custom",
