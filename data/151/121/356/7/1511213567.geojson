@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 2349,
-    "millsfield:count_objects": 1263,
+    "millsfield:count_objects": 1266,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Passenger Amenity, Archive",
@@ -50,7 +50,7 @@
       }
     ],
     "wof:id": 1511213567,
-    "wof:lastmodified": 1659771015,
+    "wof:lastmodified": 1659945215,
     "wof:name": "Menu",
     "wof:parent_id": 1762671311,
     "wof:placetype": "custom",
