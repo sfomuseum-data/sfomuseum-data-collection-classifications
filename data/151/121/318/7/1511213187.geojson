@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 112,
-    "millsfield:count_objects": 113,
+    "millsfield:count_objects": 115,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Passenger Amenity, Museum",
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213187,
-    "wof:lastmodified": 1662190215,
+    "wof:lastmodified": 1662366798,
     "wof:name": "Amenity Kit",
     "wof:parent_id": 1762679663,
     "wof:placetype": "custom",
