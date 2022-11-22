@@ -9,6 +9,8 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Art",
@@ -49,7 +51,7 @@
       }
     ],
     "wof:id": 1511213791,
-    "wof:lastmodified": 1669021823,
+    "wof:lastmodified": 1669108036,
     "wof:name": "Drawing",
     "wof:parent_id": 1511214257,
     "wof:placetype": "custom",
