@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 1571,
+    "millsfield:count_images": 1574,
     "millsfield:count_objects": 1364,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -50,7 +50,7 @@
       }
     ],
     "wof:id": 1511213417,
-    "wof:lastmodified": 1675931757,
+    "wof:lastmodified": 1676053867,
     "wof:name": "Flatware",
     "wof:parent_id": 1746152551,
     "wof:placetype": "custom",
