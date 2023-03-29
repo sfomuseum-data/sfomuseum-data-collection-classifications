@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 204,
-    "millsfield:count_objects": 8636,
+    "millsfield:count_objects": 8640,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Book",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511214231,
-    "wof:lastmodified": 1672219948,
+    "wof:lastmodified": 1680079027,
     "wof:name": "Book",
     "wof:parent_id": 1511214217,
     "wof:placetype": "custom",
