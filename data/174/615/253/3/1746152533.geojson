@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "millsfield:count_images": 3715,
-    "millsfield:count_objects": 3294,
+    "millsfield:count_objects": 3298,
     "mz:is_current": 1,
     "sfomuseum:category": "Beverage Service",
     "sfomuseum:classification_id": -1,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 1746152533,
-    "wof:lastmodified": 1676053860,
+    "wof:lastmodified": 1680079027,
     "wof:name": "Beverage Service",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",

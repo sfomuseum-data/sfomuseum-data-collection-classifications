@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 1574,
-    "millsfield:count_objects": 1364,
+    "millsfield:count_objects": 1371,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Meal Service",
@@ -50,7 +50,7 @@
       }
     ],
     "wof:id": 1511213417,
-    "wof:lastmodified": 1679988791,
+    "wof:lastmodified": 1680079033,
     "wof:name": "Flatware",
     "wof:parent_id": 1746152551,
     "wof:placetype": "custom",
