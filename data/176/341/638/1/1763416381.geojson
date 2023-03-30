@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "millsfield:count_images": 571,
-    "millsfield:count_objects": 332,
+    "millsfield:count_objects": 335,
     "mz:is_current": 1,
     "sfomuseum:category": "Uniform Accessory",
     "sfomuseum:classification_id": -1,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1763416381,
-    "wof:lastmodified": 1678477927,
+    "wof:lastmodified": 1680163986,
     "wof:name": "Uniform Accessory",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",
