@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 57,
-    "millsfield:count_objects": 46,
+    "millsfield:count_objects": 56,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Equipment",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511214227,
-    "wof:lastmodified": 1678868174,
+    "wof:lastmodified": 1680163986,
     "wof:name": "Equipment",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",
