@@ -8,7 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
-    "millsfield:count_images": 15,
+    "millsfield:count_images": 16,
     "millsfield:count_objects": 16,
     "mz:is_current": 1,
     "sfomuseum:category": "Insignia",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1779539761,
-    "wof:lastmodified": 1682666881,
+    "wof:lastmodified": 1682973920,
     "wof:name": "Uniform Wing(s), Ground Crew",
     "wof:parent_id": 1511214225,
     "wof:placetype": "custom",
