@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 36403,
+    "millsfield:count_images": 36404,
     "millsfield:count_objects": 28155,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1511214207,
-    "wof:lastmodified": 1692087725,
+    "wof:lastmodified": 1692260390,
     "wof:name": "Aviation Archive",
     "wof:parent_id": 1511214277,
     "wof:placetype": "custom",
