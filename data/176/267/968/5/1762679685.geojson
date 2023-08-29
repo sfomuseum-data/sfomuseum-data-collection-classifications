@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "millsfield:count_images": 31,
-    "millsfield:count_objects": 29,
+    "millsfield:count_objects": 31,
     "mz:is_current": 1,
     "sfomuseum:category": "Design",
     "sfomuseum:classification_id": -1,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1762679685,
-    "wof:lastmodified": 1651701133,
+    "wof:lastmodified": 1693297674,
     "wof:name": "Design",
     "wof:parent_id": 1511214207,
     "wof:placetype": "custom",
