@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 22875,
+    "millsfield:count_images": 22904,
     "millsfield:count_objects": 15781,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1511214203,
-    "wof:lastmodified": 1697788084,
+    "wof:lastmodified": 1698306095,
     "wof:name": "Aviation Museum",
     "wof:parent_id": 1511214277,
     "wof:placetype": "custom",
