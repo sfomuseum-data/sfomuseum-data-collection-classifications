@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 35,
+    "millsfield:count_images": 39,
     "millsfield:count_objects": 33,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -50,7 +50,7 @@
       }
     ],
     "wof:id": 1511213263,
-    "wof:lastmodified": 1701851307,
+    "wof:lastmodified": 1701971199,
     "wof:name": "Napkin",
     "wof:parent_id": 1746152551,
     "wof:placetype": "custom",
