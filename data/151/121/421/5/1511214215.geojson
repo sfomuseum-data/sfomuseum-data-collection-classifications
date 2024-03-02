@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 10097,
-    "millsfield:count_objects": 5401,
+    "millsfield:count_objects": 5402,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Philately",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511214215,
-    "wof:lastmodified": 1708504817,
+    "wof:lastmodified": 1709368519,
     "wof:name": "Philately",
     "wof:parent_id": 1511214207,
     "wof:placetype": "custom",
