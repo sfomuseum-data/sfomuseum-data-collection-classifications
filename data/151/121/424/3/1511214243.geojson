@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 12,
+    "millsfield:count_images": 9,
     "millsfield:count_objects": 3036,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511214243,
-    "wof:lastmodified": 1651701133,
+    "wof:lastmodified": 1711611867,
     "wof:name": "Passenger Amenity",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",

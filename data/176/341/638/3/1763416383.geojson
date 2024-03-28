@@ -8,7 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
-    "millsfield:count_images": 8,
+    "millsfield:count_images": 9,
     "millsfield:count_objects": 8,
     "mz:is_current": 1,
     "sfomuseum:category": "Uniform Accessory",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1763416383,
-    "wof:lastmodified": 1711524224,
+    "wof:lastmodified": 1711611880,
     "wof:name": "Suitcase",
     "wof:parent_id": 1763416381,
     "wof:placetype": "custom",

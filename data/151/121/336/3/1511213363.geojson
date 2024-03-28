@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 6934,
+    "millsfield:count_images": 6942,
     "millsfield:count_objects": 3703,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213363,
-    "wof:lastmodified": 1711524224,
+    "wof:lastmodified": 1711611881,
     "wof:name": "Postcard",
     "wof:parent_id": 1511214215,
     "wof:placetype": "custom",
