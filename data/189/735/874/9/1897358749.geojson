@@ -8,7 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
-    "millsfield:count_images": 423,
+    "millsfield:count_images": 424,
     "millsfield:count_objects": 420,
     "mz:is_current": 1,
     "sfomuseum:category": "Passenger Amenity, Museum",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1897358749,
-    "wof:lastmodified": 1711610673,
+    "wof:lastmodified": 1711697772,
     "wof:name": "Children’s Souvenir Wings",
     "wof:parent_id": 1762679663,
     "wof:placetype": "custom",

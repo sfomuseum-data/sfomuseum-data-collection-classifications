@@ -8,7 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
-    "millsfield:count_images": 2025,
+    "millsfield:count_images": 2026,
     "millsfield:count_objects": 1653,
     "mz:is_current": 1,
     "sfomuseum:category": "Passenger Amenity, Museum",
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1762679663,
-    "wof:lastmodified": 1711611867,
+    "wof:lastmodified": 1711697759,
     "wof:name": "Passenger Amenity, Museum",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",
