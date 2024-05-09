@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "millsfield:count_images": 1764,
-    "millsfield:count_objects": 1530,
+    "millsfield:count_objects": 1531,
     "mz:is_current": 1,
     "sfomuseum:category": "Promotional, Archive",
     "sfomuseum:classification_id": -1,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1763416397,
-    "wof:lastmodified": 1714635904,
+    "wof:lastmodified": 1715240131,
     "wof:name": "Promotional, Archive",
     "wof:parent_id": 1511214207,
     "wof:placetype": "custom",
