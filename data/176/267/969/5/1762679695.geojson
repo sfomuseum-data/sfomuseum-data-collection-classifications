@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "millsfield:count_images": 14,
-    "millsfield:count_objects": 11,
+    "millsfield:count_objects": 12,
     "mz:is_current": 1,
     "sfomuseum:category": "Award",
     "sfomuseum:classification_id": -1,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1762679695,
-    "wof:lastmodified": 1714635904,
+    "wof:lastmodified": 1715240131,
     "wof:name": "Award",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",
