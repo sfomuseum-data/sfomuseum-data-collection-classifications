@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 2480,
-    "millsfield:count_objects": 2336,
+    "millsfield:count_objects": 2343,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Insignia",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511214225,
-    "wof:lastmodified": 1713339199,
+    "wof:lastmodified": 1715650545,
     "wof:name": "Insignia",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",

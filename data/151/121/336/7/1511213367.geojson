@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 3143,
-    "millsfield:count_objects": 3190,
+    "millsfield:count_objects": 3193,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Photograph",
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213367,
-    "wof:lastmodified": 1715326178,
+    "wof:lastmodified": 1715650554,
     "wof:name": "Print, Photograph",
     "wof:parent_id": 1511214209,
     "wof:placetype": "custom",
