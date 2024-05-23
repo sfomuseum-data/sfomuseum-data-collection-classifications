@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 2487,
+    "millsfield:count_images": 2492,
     "millsfield:count_objects": 2343,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1511214225,
-    "wof:lastmodified": 1715845140,
+    "wof:lastmodified": 1716450019,
     "wof:name": "Insignia",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",

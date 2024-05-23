@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 14,
+    "millsfield:count_images": 23,
     "millsfield:count_objects": 17,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1511213497,
-    "wof:lastmodified": 1716363011,
+    "wof:lastmodified": 1716450034,
     "wof:name": "Service Award",
     "wof:parent_id": 1511214251,
     "wof:placetype": "custom",
