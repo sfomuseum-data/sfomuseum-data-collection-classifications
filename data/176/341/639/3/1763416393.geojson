@@ -8,7 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
-    "millsfield:count_images": 4740,
+    "millsfield:count_images": 4764,
     "millsfield:count_objects": 2621,
     "mz:is_current": 1,
     "sfomuseum:category": "Uniform",
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 1763416393,
-    "wof:lastmodified": 1716597408,
+    "wof:lastmodified": 1718091548,
     "wof:name": "Uniform",
     "wof:parent_id": 1511214203,
     "wof:placetype": "custom",
