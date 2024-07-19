@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 4468,
+    "millsfield:count_images": 4580,
     "millsfield:count_objects": 1228,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1511213161,
-    "wof:lastmodified": 1721323311,
+    "wof:lastmodified": 1721421790,
     "wof:name": "Model Airplane",
     "wof:parent_id": 1511214235,
     "wof:placetype": "custom",
