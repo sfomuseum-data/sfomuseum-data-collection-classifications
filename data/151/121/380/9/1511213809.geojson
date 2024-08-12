@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 28,
+    "millsfield:count_images": 30,
     "millsfield:count_objects": 17,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1511213809,
-    "wof:lastmodified": 1723447757,
+    "wof:lastmodified": 1723495127,
     "wof:name": "Toy",
     "wof:parent_id": 1763416373,
     "wof:placetype": "custom",
