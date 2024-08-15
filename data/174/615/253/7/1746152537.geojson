@@ -8,7 +8,7 @@
     "geom:bbox": "-122.386155,37.616357,-122.386155,37.616357",
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
-    "millsfield:count_images": 228,
+    "millsfield:count_images": 230,
     "millsfield:count_objects": 229,
     "mz:is_current": 1,
     "sfomuseum:category": "Beverage Service",
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1746152537,
-    "wof:lastmodified": 1723660196,
+    "wof:lastmodified": 1723707042,
     "wof:name": "Stemware",
     "wof:parent_id": 1746152533,
     "wof:placetype": "custom",

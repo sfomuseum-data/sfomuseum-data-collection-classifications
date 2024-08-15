@@ -9,6 +9,8 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
+    "millsfield:count_images": 3,
+    "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Insignia",
@@ -50,7 +52,7 @@
       }
     ],
     "wof:id": 1511213675,
-    "wof:lastmodified": 1723659842,
+    "wof:lastmodified": 1723707042,
     "wof:name": "Pin, Union",
     "wof:parent_id": 1511214225,
     "wof:placetype": "custom",
