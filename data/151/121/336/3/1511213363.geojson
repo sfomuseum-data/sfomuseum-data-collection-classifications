@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 6963,
-    "millsfield:count_objects": 3715,
+    "millsfield:count_objects": 3720,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Philately",
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1511213363,
-    "wof:lastmodified": 1724138866,
+    "wof:lastmodified": 1724311778,
     "wof:name": "Postcard",
     "wof:parent_id": 1511214215,
     "wof:placetype": "custom",
