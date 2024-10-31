@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 2260,
+    "millsfield:count_images": 2262,
     "millsfield:count_objects": 2260,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1511213401,
-    "wof:lastmodified": 1730273017,
+    "wof:lastmodified": 1730359841,
     "wof:name": "Slide",
     "wof:parent_id": 1511214209,
     "wof:placetype": "custom",
