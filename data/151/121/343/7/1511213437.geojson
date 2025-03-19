@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 12,
+    "millsfield:count_images": 13,
     "millsfield:count_objects": 85,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1511213437,
-    "wof:lastmodified": 1742283018,
+    "wof:lastmodified": 1742369702,
     "wof:name": "Interview Transcript",
     "wof:parent_id": 1511214267,
     "wof:placetype": "custom",
