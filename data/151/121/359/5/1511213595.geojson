@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 328,
-    "millsfield:count_objects": 284,
+    "millsfield:count_objects": 286,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Insignia",
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1511213595,
-    "wof:lastmodified": 1757058926,
+    "wof:lastmodified": 1757145478,
     "wof:name": "Hat Badge, Flight Crew",
     "wof:parent_id": 1511214225,
     "wof:placetype": "custom",
