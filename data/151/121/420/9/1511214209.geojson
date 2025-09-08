@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "iso:country": "US",
-    "millsfield:count_images": 8643,
+    "millsfield:count_images": 8645,
     "millsfield:count_objects": 8663,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -49,7 +49,7 @@
       }
     ],
     "wof:id": 1511214209,
-    "wof:lastmodified": 1753257065,
+    "wof:lastmodified": 1757318826,
     "wof:name": "Photograph",
     "wof:parent_id": 1511214207,
     "wof:placetype": "custom",
