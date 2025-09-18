@@ -50,7 +50,7 @@
       }
     ],
     "wof:id": 1511213203,
-    "wof:lastmodified": 1758180596,
+    "wof:lastmodified": 1758219446,
     "wof:name": "Model Autogiro",
     "wof:parent_id": 1511214235,
     "wof:placetype": "custom",
@@ -68,5 +68,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }
