@@ -49,7 +49,7 @@
       }
     ],
     "wof:id": 1511213525,
-    "wof:lastmodified": 1758612460,
+    "wof:lastmodified": 1758698932,
     "wof:name": "Other",
     "wof:parent_id": 1746152551,
     "wof:placetype": "custom",
@@ -67,5 +67,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }
