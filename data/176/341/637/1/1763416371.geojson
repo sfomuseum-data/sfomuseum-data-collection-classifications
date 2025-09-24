@@ -47,7 +47,7 @@
       }
     ],
     "wof:id": 1763416371,
-    "wof:lastmodified": 1758612461,
+    "wof:lastmodified": 1758698932,
     "wof:name": "Digital File",
     "wof:parent_id": 1511214247,
     "wof:placetype": "custom",
@@ -64,5 +64,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }

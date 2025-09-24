@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1511213359,
-    "wof:lastmodified": 1758612460,
+    "wof:lastmodified": 1758698932,
     "wof:name": "Plaque",
     "wof:parent_id": 1762679695,
     "wof:placetype": "custom",
@@ -70,5 +70,5 @@
     -122.386155,
     37.616357
   ],
-  "geometry": {"coordinates":[-122.386155,37.616357],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386155,37.616357]}
 }
