@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "millsfield:count_images": 1,
-    "millsfield:count_objects": 1,
+    "millsfield:count_objects": 6,
     "mz:is_current": 1,
     "sfomuseum:category": "Promotional, Museum",
     "sfomuseum:classification_id": 584,
@@ -49,7 +49,7 @@
       }
     ],
     "wof:id": 1763416375,
-    "wof:lastmodified": 1771403204,
+    "wof:lastmodified": 1771490173,
     "wof:name": "Sticker / Decal",
     "wof:parent_id": 1763416373,
     "wof:placetype": "custom",
