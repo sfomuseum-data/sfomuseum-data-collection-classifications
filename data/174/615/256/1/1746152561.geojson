@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "millsfield:count_images": 68,
-    "millsfield:count_objects": 31,
+    "millsfield:count_objects": 32,
     "mz:is_current": 1,
     "sfomuseum:category": "Meal Service",
     "sfomuseum:classification_id": 569,
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1746152561,
-    "wof:lastmodified": 1771403204,
+    "wof:lastmodified": 1771490173,
     "wof:name": "Meal Box",
     "wof:parent_id": 1746152551,
     "wof:placetype": "custom",
