@@ -9,7 +9,7 @@
     "geom:latitude": 37.616357,
     "geom:longitude": -122.386155,
     "millsfield:count_images": 72,
-    "millsfield:count_objects": 62,
+    "millsfield:count_objects": 63,
     "mz:is_current": 1,
     "sfomuseum:category": "Meal Service",
     "sfomuseum:classification_id": 573,
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1746152569,
-    "wof:lastmodified": 1775077943,
+    "wof:lastmodified": 1775115346,
     "wof:name": "Napkin Ring",
     "wof:parent_id": 1746152551,
     "wof:placetype": "custom",
