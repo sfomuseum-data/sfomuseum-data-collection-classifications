@@ -10,7 +10,7 @@
     "geom:longitude": -122.386155,
     "iso:country": "US",
     "millsfield:count_images": 109,
-    "millsfield:count_objects": 110,
+    "millsfield:count_objects": 109,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:category": "Insignia",
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1511213603,
-    "wof:lastmodified": 1775114912,
+    "wof:lastmodified": 1775206070,
     "wof:name": "Patch, Airline",
     "wof:parent_id": 1511214225,
     "wof:placetype": "custom",
